@@ -1,0 +1,4 @@
+bases:
+  - ../../application
+  - namespace.yaml
+namespace: simple-flask-app-prod
